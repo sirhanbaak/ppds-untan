@@ -1,0 +1,11 @@
+{
+  "name": "ppds-fk-untan-wasm",
+  "version": "1.0.0",
+  "description": "Portal Seleksi PPDS FK UNTAN - Rust WebAssembly",
+  "scripts": {
+    "build": "echo \"Assets prebuilt in dist directory\""
+  },
+  "keywords": ["rust", "wasm", "webassembly", "yew", "ppds"],
+  "author": "FK UNTAN",
+  "license": "MIT"
+}
